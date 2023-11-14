@@ -19,12 +19,12 @@ ChatGPT国内中文镜像，提供免费好用的ChatGPT网站地址，所有网
 
 
 ## 📱 ChatGPT手机版
-🧗‍✅ [ChatOn](https://github.com/LangLangShanDeNanKe/mobile_chatgpt)
+🧗‍✅ [ChatOn](https://github.com/LangLangShanDeNanKe/mobile_chatgpt) 
 
 
 ## ⭐ 替代ChatGPT网站
 
-✅💰 [AISoftworks](https://www.aisoftworks.com/chat)
+✅💰 [AISoftworks](https://www.aisoftworks.com/chat)（GPT4.0）
 
 🔐💰 [Chatsonic](https://writesonic.com/chat)
 
